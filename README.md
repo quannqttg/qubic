@@ -1,2 +1,0 @@
-# qubic
-qubic_ubuntu
